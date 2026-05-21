@@ -168,28 +168,29 @@ plt.show()
 ### Grayscale Histogram Equalization
 
 - Original grayscale image is displayed
-<img width="523" height="364" alt="image" src="https://github.com/user-attachments/assets/6c14ebd8-9515-4c26-bc64-3e23db945c1b" />
+<img width="390" height="670" alt="image" src="https://github.com/user-attachments/assets/88c6fb38-0bdc-4724-aa46-91149e662211" />
+
 
 - Histogram of original grayscale image is plotted
-<img width="597" height="389" alt="image" src="https://github.com/user-attachments/assets/cb50a1ad-e60b-41b6-9289-3bec4d6247ba" />
+<img width="887" height="587" alt="image" src="https://github.com/user-attachments/assets/6f14dcad-b438-4e50-8946-cde9d9f7aa65" />
+
  
 
 ### Color Image Histogram Equalization
 
 - Original color image is displayed
-<img width="502" height="360" alt="image" src="https://github.com/user-attachments/assets/f954f34a-3469-4817-910e-39bc20891d51" />
+<img width="367" height="641" alt="image" src="https://github.com/user-attachments/assets/45bd4b0e-5697-4d5e-ac16-f4279edf878a" />
 
 - Histogram of B, G, R channels is plotted
-<img width="608" height="388" alt="image" src="https://github.com/user-attachments/assets/c37cf6b3-a9e5-4851-ac7e-dd615a414c0b" />
-  
+<img width="898" height="595" alt="image" src="https://github.com/user-attachments/assets/ad3f785b-df5a-4b46-aab7-b0f8567b80cd" />
 
 ### Equalization Image 
 
 - Display Equalized Image
-<img width="506" height="363" alt="image" src="https://github.com/user-attachments/assets/2185f423-6d7e-4daf-b52b-db97119c6fbc" />
+<img width="362" height="645" alt="image" src="https://github.com/user-attachments/assets/25099bad-1c3f-44b7-ac78-fb7a62d7a515" />
 
 - Histogram of Equalized Image
-<img width="593" height="406" alt="image" src="https://github.com/user-attachments/assets/6935317c-529e-41c9-9ff2-c92029864f86" />
+<img width="911" height="595" alt="image" src="https://github.com/user-attachments/assets/9eec5b46-71c1-4475-a2da-66d1c0b68c78" />
 
 
 
