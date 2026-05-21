@@ -70,9 +70,9 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** Kiruba RC
+**Name:** SANJANA K L
 
-**Register No:** 212224230125
+**Register No:** 212224230241
   ### Ex. No. 02
 
 #### 1. import libraries.
@@ -177,7 +177,7 @@ plt.show()
 ### Color Image Histogram Equalization
 
 - Original color image is displayed
-<img width="317" height="532" alt="image" src="https://github.com/user-attachments/assets/f089f8b5-5799-4827-a01e-21aaed9349e9" />
+<img width="502" height="360" alt="image" src="https://github.com/user-attachments/assets/f954f34a-3469-4817-910e-39bc20891d51" />
 
 - Histogram of B, G, R channels is plotted
 <img width="608" height="388" alt="image" src="https://github.com/user-attachments/assets/c37cf6b3-a9e5-4851-ac7e-dd615a414c0b" />
